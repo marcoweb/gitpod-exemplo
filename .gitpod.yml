@@ -1,1 +1,2 @@
-image: gitpod/workspace-flutter
+tasks:
+  - init: npm install -g expo-cli
